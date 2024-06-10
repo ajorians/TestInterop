@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WPFNet5App": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

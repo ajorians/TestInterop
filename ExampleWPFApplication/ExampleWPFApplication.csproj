@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <UseWPF>true</UseWPF>
+    <Platforms>x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GateInterop\GateInterop.vcxproj" />
+    <ProjectReference Include="..\InteropDependencies\InteropDependencies.csproj" />
+  </ItemGroup>
+
+</Project>
